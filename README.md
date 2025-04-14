@@ -92,6 +92,7 @@ kubectl describe pod <pod-name>
 🧹 Cleanup
 
 kubectl delete -f nginx-deployment.yaml
+
 kubectl delete -f nginx-service.yaml
 
 ---
@@ -108,6 +109,7 @@ Yunus Sharif
 ---
 
 📃 Note
+
 This project is part of a hands-on DevOps Internship Task to explore Kubernetes concepts using local Minikube setup.
 
 ---
