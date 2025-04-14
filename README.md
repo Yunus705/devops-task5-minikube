@@ -103,7 +103,6 @@ All screenshots are in the screenshots/ folder.
 🧾 Author
 
 Yunus Sharif
-
 📧 yunussharif705@705.com
 
 ---
