@@ -61,6 +61,7 @@ Get Minikube IP
 minikube ip
 
 📌 Open browser: http://<minikube-ip>:30001
+
 You should see the NGINX welcome page.
 
 ---
@@ -76,6 +77,7 @@ kubectl get pods
 ---
 
 🧠 Inspect Resources using kubectl describe
+
 Describe Deployment
 
 kubectl describe deployment nginx-deployment
@@ -101,6 +103,7 @@ All screenshots are in the screenshots/ folder.
 🧾 Author
 
 Yunus Sharif
+
 📧 yunussharif705@705.com
 
 ---
